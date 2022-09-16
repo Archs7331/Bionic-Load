@@ -1,2 +1,2 @@
 # Bionic-Load
-BLoad (Bionic-Load) is an open source simple network monitoring tool in python taking inspiration from bpytop,nload &amp; htop
+Made in collaboration with * [Xplode](https://github.com/xplode-hax)
