@@ -70,6 +70,6 @@ Device {interface} | Address [{ep1}] | User: {username} | Uptime: {uptime}
        """)
        
 
-       time.sleep(refresh) # Refresh every 1 second, you can change this to whatever suites you
+       time.sleep(refresh) # Refresh stats
 
 main(interface,refresh)
